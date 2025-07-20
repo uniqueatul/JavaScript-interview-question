@@ -1,0 +1,35 @@
+
+Q1 = find the maximum element in an array
+Q2 = count the number of even and odd number in a list 
+Q3 = reverse a given string
+Q4 =  check if a number is prime.
+Q5 = print the fibonacci sequence up to N terms 
+Q6= find the second largest element in an array 
+Q7 = check if a number is a palindrome. 
+Q8 = sort an array using bubble sort 
+Q9 = find the sum of digit of a number .
+Q10 = calculate the factorial of a number .
+Q11 = merge two sorted arrays into one .
+Q12 = count the frequency of elements in an array. 
+Q13= find the missing number in a range from 1 to N .
+Q14 =check if two string are anagrams .
+Q15 =Remove the duplicate elements from an array
+Q16= find the largest sum subarray  (kadane's Algorithm).
+Q17 = check if a number is armstrong number.
+Q18=Rotate an array to the left by K steps
+Q19 =find the intersection of two arrays
+Q20 =move all zeros to the end of an array
+Q21 =implement binary search on a sorted array 
+Q22 = check if a number is a perfect square.
+Q23=count vowels and consonanants in a string
+Q24= find the GCD of two number.
+Q25=convert a binary number to decimal
+Q26 = find the first non-repeating character in a string 
+Q27= implement a stack using arrays
+Q28 =implement a queue using two stacks.
+Q29=check if brackets are balanced in an expression
+Q30= find the majority element in an array(if any)
+
+
+solution of all question : -
+https://chatgpt.com/s/t_687d121700d88191b2147655d9bf187a

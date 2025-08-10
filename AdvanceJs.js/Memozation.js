@@ -18,3 +18,6 @@ const Square = memozesquare()
 console.log(memozesquare(5));
 console.log(memozesquare(5));
 console.log(memozesquare(8));
+             
+
+  

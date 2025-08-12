@@ -16,19 +16,31 @@
 
 
 
-function increaseCount (){
-    count = 0
-    return function (){
-        count = count +1
-        return count
-    }
+// function increaseCount (){
+//     count = 0
+//     return function (){
+//         count = count +1
+//         return count
+//     }
+// }
+
+// const Mycount = increaseCount()
+// console.log(Mycount());
+
+
+
+
+
+function counter() {
+  let count = 0;
+  return function() {
+    count++;
+    console.log(count);
+  };
 }
 
-const Mycount = increaseCount()
-console.log(Mycount());
-
-
-
-
-
+const increment = counter();
+increment(); // 1
+increment(); // 2
+increment(); // 3
 

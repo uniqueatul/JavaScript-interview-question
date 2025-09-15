@@ -4,7 +4,7 @@
 
 
 // Why are closures useful?
-// 🧠 Answer:
+//  Answer:
 // Closures allow:-
 
 // Data privacy/encapsulation
@@ -31,16 +31,37 @@
 
 
 
-function counter() {
-  let count = 0;
-  return function() {
-    count++;
-    console.log(count);
-  };
+// function counter() {
+//   let count = 0;
+//   return function() {
+//     count++;
+//     console.log(count);
+//   };
+// }
+
+// const increment = counter();
+// increment(); // 1
+// increment(); // 2
+// increment(); // 3
+
+
+
+
+
+
+function App(){
+   let count  = 0;
+    return function (){
+      count++;
+      console.log(count);
+    };
+    
+
 }
 
-const increment = counter();
-increment(); // 1
-increment(); // 2
-increment(); // 3
+let appp = App();
+
+appp();
+appp();
+
 

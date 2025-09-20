@@ -10,3 +10,4 @@ function mapArray(arr){
 console.log(mapArray(arr));
 
 console.log(arr);
+
